@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<simbolo nome="parte_do_dia">
+    <expressao>"mornings"</expressao>
+    <expressao>"morning"</expressao>
+    <expressao>"noon"</expressao>
+    <expressao>"mid-day"</expressao>
+    <expressao>"mid-afternoon"</expressao>
+    <expressao>"afternoon"</expressao>
+    <expressao>"evenings"</expressao>
+    <expressao>"evening"</expressao>
+    <expressao>"nights"</expressao>
+    <expressao>"tonight"</expressao>
+    <expressao>"midnights"</expressao>
+    <expressao>"midnight"</expressao>
+    <expressao>"night"</expressao>
+</simbolo>

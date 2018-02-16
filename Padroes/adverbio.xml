@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<simbolo nome="adverbio">
+    <expressao>"early"</expressao>
+    <expressao>"later"</expressao>
+    <expressao>"late"</expressao>
+    <expressao>"earlier"</expressao>
+    <expressao>"past"</expressao>
+	<expressao>"before"</expressao>
+	<expressao>"after"</expressao>
+</simbolo>

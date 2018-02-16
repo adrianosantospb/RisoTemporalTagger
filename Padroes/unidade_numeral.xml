@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<simbolo nome="unidade_numeral">
+   <expressao>"[0-9]+"</expressao> 
+</simbolo>

@@ -1,0 +1,242 @@
+<?xml version="1.0"?>
+<simbolo nome="estrutura_pre_temporal">
+    <expressao>"in the beginning"</expressao>
+    <expressao>"in the start of"</expressao>
+    <expressao>"in early"</expressao>
+    <expressao>"in earlier"</expressao>
+    <expressao>"in the middle of"</expressao>
+    <expressao>"in mid-[A-Za-z]*"</expressao>
+    <expressao>"in mid[A-Za-z]*"</expressao>
+    <expressao>"in mid"</expressao>
+    <expressao>"in the end of"</expressao>
+    <expressao>"in later a"</expressao>
+	<expressao>"in later"</expressao>
+    <expressao>"in late"</expressao>
+	<expressao>"In under a"</expressao>
+	<expressao>"In under"</expressao>
+    <expressao>"on the beginning of"</expressao>
+    <expressao>"on the start of"</expressao>
+    <expressao>"on the start of"</expressao>
+    <expressao>"on early"</expressao>
+    <expressao>"on earlier"</expressao>
+    <expressao>"on the middle of"</expressao>
+    <expressao>"on mid-[A-Za-z]*"</expressao>
+    <expressao>"on mid[A-Za-z]*"</expressao>
+    <expressao>"on mid"</expressao>
+    <expressao>"on the end of"</expressao>
+    <expressao>"on late"</expressao>
+    <expressao>"on later"</expressao>
+    <expressao>"At the beginning of"</expressao>
+    <expressao>"At the start of"</expressao>
+    <expressao>"At early"</expressao>
+    <expressao>"At earlier"</expressao>
+    <expressao>"At the middle of"</expressao>
+    <expressao>"At mid-[A-Za-z]*"</expressao>
+    <expressao>"At mid[A-Za-z]*"</expressao>
+    <expressao>"At mid"</expressao>
+    <expressao>"At the end of"</expressao>
+    <expressao>"At later"</expressao>
+    <expressao>"At late"</expressao>
+    <expressao>"to the beginning of"</expressao>
+    <expressao>"to the start of"</expressao>
+    <expressao>"to early"</expressao>
+    <expressao>"to early"</expressao>
+    <expressao>"to earlier"</expressao>
+    <expressao>"to the middle of"</expressao>
+    <expressao>"to mid-[A-Za-z]*"</expressao>
+    <expressao>"to mid[A-Za-z]*"</expressao>
+    <expressao>"to mid[A-Za-z]*"</expressao>
+    <expressao>"to mid"</expressao>
+    <expressao>"to the end of"</expressao>
+    <expressao>"to later"</expressao>
+    <expressao>"to late"</expressao>
+    <expressao>"from the start of"</expressao>
+    <expressao>"from early"</expressao>
+    <expressao>"from earlier"</expressao>
+    <expressao>"from mid-[A-Za-z]*"</expressao>
+    <expressao>"from mid[A-Za-z]*"</expressao>
+    <expressao>"from mid"</expressao>
+    <expressao>"from the end of"</expressao>
+    <expressao>"from late"</expressao>
+    <expressao>"from later"</expressao>
+    <expressao>"approximately"</expressao>
+    <expressao>"about the beginning of"</expressao>
+    <expressao>"about the start of"</expressao>
+    <expressao>"about early"</expressao>
+    <expressao>"about earlier"</expressao>
+    <expressao>"about mid-[A-Za-z]*"</expressao>
+    <expressao>"about mid[A-Za-z]*"</expressao>
+    <expressao>"about mid"</expressao>
+    <expressao>"about the end of"</expressao>
+    <expressao>"about late"</expressao>
+    <expressao>"about"</expressao>
+    <expressao>"around mid-[A-Za-z]*"</expressao>
+    <expressao>"around mid[A-Za-z]*"</expressao>
+    <expressao>"around mid"</expressao>
+    <expressao>"around"</expressao>
+    <expressao>"round mid-[A-Za-z]*"</expressao>
+    <expressao>"round mid[A-Za-z]*"</expressao>
+    <expressao>"round mid"</expressao>
+    <expressao>"circa mid-[A-Za-z]*"</expressao>
+    <expressao>"circa mid[A-Za-z]*"</expressao>
+    <expressao>"circa mid"</expressao>
+    <expressao>"circa"</expressao>
+    <expressao>"nearly the beginning of"</expressao>
+    <expressao>"nearly"</expressao>
+    <expressao>"nearly early"</expressao>
+    <expressao>"nearly earlier"</expressao>
+    <expressao>"nearly mid-[A-Za-z]*"</expressao>
+    <expressao>"nearly mid[A-Za-z]*"</expressao>
+    <expressao>"nearly mid"</expressao>
+    <expressao>"nearly the end of"</expressao>
+    <expressao>"nearly late"</expressao>
+    <expressao>"nearly"</expressao>
+    <expressao>"almost the beginning of"</expressao>
+    <expressao>"almost beginning of"</expressao>
+    <expressao>"almost the start of"</expressao>
+    <expressao>"almost start of"</expressao>
+    <expressao>"almost early"</expressao>
+    <expressao>"almost"</expressao>
+    <expressao>"almost mid-[A-Za-z]*"</expressao>
+    <expressao>"almost mid[A-Za-z]*"</expressao>
+    <expressao>"almost mid"</expressao>
+    <expressao>"almost the end of"</expressao>
+    <expressao>"almost"</expressao>
+    <expressao>"at least the beginning of"</expressao>
+    <expressao>"at least the start of"</expressao>
+    <expressao>"at least early"</expressao>
+    <expressao>"at least mid-[A-Za-z]*"</expressao>
+    <expressao>"at least mid[A-Za-z]*"</expressao>
+    <expressao>"at least mid"</expressao>
+    <expressao>"at least the end of"</expressao>
+    <expressao>"at least"</expressao>
+    <expressao>"no more than"</expressao>
+    <expressao>"no longer than mid-[A-Za-z]*"</expressao>
+    <expressao>"no longer than mid[A-Za-z]*"</expressao>
+    <expressao>"no longer than mid"</expressao>
+    <expressao>"no longer than"</expressao>
+    <expressao>"longer than mid-[A-Za-z]*"</expressao>
+    <expressao>"longer than mid[A-Za-z]*"</expressao>
+    <expressao>"longer than mid"</expressao>
+    <expressao>"longer than"</expressao>
+    <expressao>"up to mid-[A-Za-z]*"</expressao>
+    <expressao>"up to mid[A-Za-z]*"</expressao>
+    <expressao>"up to mid"</expressao>
+    <expressao>"up to"</expressao>
+    <expressao>"less than mid"</expressao>
+    <expressao>"less than mid[A-Za-z]*"</expressao>
+    <expressao>"less than"</expressao>
+    <expressao>"more than mid-[A-Za-z]*"</expressao>
+    <expressao>"more than mid[A-Za-z]*"</expressao>
+    <expressao>"more than mid"</expressao>
+    <expressao>"more than"</expressao>
+    <expressao>"more than over mid-[A-Za-z]*"</expressao>
+    <expressao>"over mid[A-Za-z]*"</expressao>
+    <expressao>"over mid[A-Za-z]*"</expressao>
+    <expressao>"over mid"</expressao>
+    <expressao>"over"</expressao>
+    <expressao>"until the beginning of"</expressao>
+    <expressao>"the beginning of until"</expressao>
+    <expressao>"beginning of until"</expressao>
+    <expressao>"until beginning of"</expressao>
+    <expressao>"until the start of"</expressao>
+    <expressao>"until early"</expressao>
+    <expressao>"until earlier"</expressao>
+    <expressao>"until the middle of"</expressao>
+    <expressao>"until mid-[A-Za-z]*"</expressao>
+    <expressao>"until mid[A-Za-z]*"</expressao>
+    <expressao>"until mid"</expressao>
+    <expressao>"until the end of"</expressao>
+    <expressao>"until later"</expressao>
+    <expressao>"until late"</expressao>
+    <expressao>"until"</expressao>
+    <expressao>"before the beginning of"</expressao>
+    <expressao>"before the start of"</expressao>
+    <expressao>"before early"</expressao>
+    <expressao>"before the start of"</expressao>
+    <expressao>"before earlier"</expressao>
+    <expressao>"before the middle of"</expressao>
+    <expressao>"before mid-[A-Za-z]*"</expressao>
+    <expressao>"before mid-[A-Za-z]*"</expressao>
+    <expressao>"before mid[A-Za-z]*"</expressao>
+    <expressao>"before mid"</expressao>
+    <expressao>"before the end of"</expressao>
+    <expressao>"before"</expressao>
+    <expressao>"last mid-[A-Za-z]*"</expressao>
+    <expressao>"last mid[A-Za-z]*"</expressao>
+    <expressao>"last mid"</expressao>
+    <expressao>"last"</expressao>
+    <expressao>"past the beginning of"</expressao>
+    <expressao>"past the start of"</expressao>
+    <expressao>"past the middle of"</expressao>
+    <expressao>"past mid-[A-Za-z]*"</expressao>
+    <expressao>"past mid[A-Za-z]*"</expressao>
+    <expressao>"past mid"</expressao>
+    <expressao>"past the end of"</expressao>
+    <expressao>"past"</expressao>
+    <expressao>"next the beginning of"</expressao>
+    <expressao>"the beginning of the next"</expressao>
+    <expressao>"the beginning of next"</expressao>
+    <expressao>"beginning of the next"</expressao>
+    <expressao>"beginning of next"</expressao>
+    <expressao>"next"</expressao>
+    <expressao>"past the start of"</expressao>
+    <expressao>"past the middle of"</expressao>
+    <expressao>"past mid-[A-Za-z]*"</expressao>
+    <expressao>"past mid[A-Za-z]*"</expressao>
+    <expressao>"past mid"</expressao>
+    <expressao>"past the end of"</expressao>
+    <expressao>"past"</expressao>
+    <expressao>"since the beginning of"</expressao>
+    <expressao>"since the start of"</expressao>
+    <expressao>"since early"</expressao>
+    <expressao>"since earlier"</expressao>
+    <expressao>"since the middle of"</expressao>
+    <expressao>"since mid-[A-Za-z]*"</expressao>
+    <expressao>"since mid[A-Za-z]*"</expressao>
+    <expressao>"since mid"</expressao>
+    <expressao>"since the end of"</expressao>
+    <expressao>"since late"</expressao>
+    <expressao>"since later"</expressao>
+    <expressao>"since"</expressao>
+    <expressao>"the beginning of this"</expressao>
+	<expressao>"the previous"</expressao>
+    <expressao>"the start of this"</expressao>
+    <expressao>"this earlier"</expressao>
+    <expressao>"this mid-[A-Za-z]*"</expressao>
+    <expressao>"this mid[A-Za-z]*"</expressao>
+    <expressao>"this mid"</expressao>
+    <expressao>"this late"</expressao>
+    <expressao>"this later"</expressao>
+    <expressao>"this"</expressao>
+    <expressao>"later that"</expressao>
+	<expressao>"late"</expressao>
+    <expressao>"later"</expressao>
+    <expressao>"that mid-[A-Za-z]*"</expressao>
+    <expressao>"that mid[A-Za-z]*"</expressao>
+    <expressao>"that mid"</expressao>
+    <expressao>"that late"</expressao>
+    <expressao>"that later"</expressao>
+    <expressao>"that"</expressao>
+    <expressao>"weeks from"</expressao>
+    <expressao>"week from"</expressao>
+    <expressao>"weeks between"</expressao>
+    <expressao>"week between"</expressao>
+	<expressao>"by the end of the"</expressao>
+	<expressao>"by the end of"</expressao>
+	<expressao>"by early"</expressao>
+	<expressao>"by the middle of"</expressao>
+	<expressao>"by the start of"</expressao>
+	<expressao>"by mid-[A-Za-z]*"</expressao>
+	<expressao>"by mid[A-Za-z]*"</expressao>
+	<expressao>"ending the"</expressao>
+	<expressao>"started in"</expressao>
+	<expressao>"the latter part of the"</expressao>
+	<expressao>"a few"</expressao>
+	<expressao>"the next"</expressao>
+	<expressao>"the autumn of"</expressao>
+	<expressao>"the autumn"</expressao>
+	<expressao>"the fall of"</expressao>
+	<expressao>"the fall"</expressao>
+	<expressao>"the spring of"</expressao> 
+</simbolo>

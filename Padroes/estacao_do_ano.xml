@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<simbolo nome="estacao_do_ano">
+    <expressao>"spring"</expressao>
+    <expressao>"summer"</expressao>
+    <expressao>"fall"</expressao>
+    <expressao>"autumn"</expressao>
+    <expressao>"winter"</expressao>
+</simbolo>

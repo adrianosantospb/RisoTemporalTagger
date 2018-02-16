@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<simbolo nome="data_numeral">
+    <expressao>"^\d{4}-(0[1-9]"</expressao>
+    <expressao>"1[0,1,2])-(0[1-9]"</expressao>
+    <expressao>"[1,2][0-9]"</expressao>
+    <expressao>"3[0,1])$"</expressao>
+    <expressao>"^([1-9]"</expressao>
+    <expressao>"0[1-9]"</expressao>
+    <expressao>"[1,2][0-9]"</expressao>
+    <expressao>"3[0,1])/([1-9]"</expressao>
+    <expressao>"1[0,1,2])/\d{4}$"</expressao>
+</simbolo>

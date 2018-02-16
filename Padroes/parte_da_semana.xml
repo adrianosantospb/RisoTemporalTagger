@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<simbolo nome="parte_da_semana">
+    <expressao>"annually"</expressao>
+    <expressao>"monthly"</expressao>
+    <expressao>"daily"</expressao>
+    <expressao>"weekly"</expressao>
+</simbolo>

@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<simbolo nome="ano">
+    <expressao>"((?&lt;=\s)\d{4}|^\d{4})"</expressao>
+</simbolo>

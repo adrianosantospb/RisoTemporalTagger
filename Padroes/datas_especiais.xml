@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<simbolo nome="datas_especiais">
+    <expressao>"Ash Wednesday"</expressao>
+    <expressao>"Palm Sunday"</expressao>
+    <expressao>"Yew Sunday"</expressao>
+    <expressao>"Branch Sunday"</expressao>
+    <expressao>"Maundy Thursday"</expressao>
+    <expressao>"Holy Thursday"</expressao>
+    <expressao>"Covenant Thursday"</expressao>
+    <expressao>"Great &amp; Holy Thursday"</expressao>
+    <expressao>"Thursday of Mysteries"</expressao>
+    <expressao>"Good Friday"</expressao>
+    <expressao>"Holy Friday"</expressao>
+    <expressao>"Great Friday"</expressao>
+    <expressao>"Easter Friday"</expressao>
+    <expressao>"Holy Saturday"</expressao>
+    <expressao>"Easter Eve"</expressao>
+    <expressao>"Black Saturday"</expressao>
+    <expressao>"Holy and Great Saturday"</expressao>
+    <expressao>"The Great Sabbath"</expressao>
+    <expressao>"Joyous Saturday"</expressao>
+    <expressao>"Easter Day"</expressao>
+    <expressao>"Easter Sunday"</expressao>
+    <expressao>"Easter"</expressao>
+    <expressao>"Resurrection Day"</expressao>
+    <expressao>"Resurrection Sunday"</expressao>
+    <expressao>"Easter Monday"</expressao>
+    <expressao>"Octave of Easter"</expressao>
+    <expressao>"Octave Day of Easter"</expressao>
+    <expressao>"Low Sunday"</expressao>
+    <expressao>"Saint Thomas Sunday"</expressao>
+    <expressao>"St. Thomas Sunday"</expressao>
+    <expressao>"Quasimodo Sunday"</expressao>
+    <expressao>"Quasimodogeniti"</expressao>
+    <expressao>"Second Sunday of Easter"</expressao>
+    <expressao>"Divine Mercy Sunday"</expressao>
+    <expressao>"Feast of the Ascension"</expressao>
+    <expressao>"Solemnity of the Ascension of the Lord"</expressao>
+    <expressao>"Ascension Thursday"</expressao>
+    <expressao>"Father's Day"</expressao>
+    <expressao>"Reformation Sunday"</expressao>
+    <expressao>"Pentecost"</expressao>
+    <expressao>"Whit Sunday"</expressao>
+    <expressao>"Whitsun"</expressao>
+    <expressao>"Whit"</expressao>
+    <expressao>"Corpus Christi"</expressao>
+    <expressao>"The Most Holy Body and Blood of Christ"</expressao>
+    <expressao>"1.Advent"</expressao>
+    <expressao>"1st Advent"</expressao>
+    <expressao>"first Advent"</expressao>
+    <expressao>"2.Advent"</expressao>
+    <expressao>"2nd Advent"</expressao>
+    <expressao>"second Advent"</expressao>
+    <expressao>"3.Advent"</expressao>
+    <expressao>"3rd Advent"</expressao>
+    <expressao>"third Advent"</expressao>
+    <expressao>"4.Advent"</expressao>
+    <expressao>"4th Advent"</expressao>
+    <expressao>"fourth Advent"</expressao>
+    <expressao>"Black Friday"</expressao>
+    <expressao>"Birthday of Martin Luther King, Jr"</expressao>
+    <expressao>"Martin Luther King"</expressao>
+    <expressao>"Day"</expressao>
+    <expressao>"Martin Luther King, Jr. Day"</expressao>
+    <expressao>"Presidents Day"</expressao>
+    <expressao>"Presidents' Day"</expressao>
+    <expressao>"President's Day"</expressao>
+    <expressao>"Washington's Birthday"</expressao>
+    <expressao>"Memorial Day"</expressao>
+    <expressao>"Decoration Day"</expressao>
+    <expressao>"Labor Day"</expressao>
+    <expressao>"Columbus Day"</expressao>
+    <expressao>"Thanksgiving"</expressao>
+    <expressao>"Thanksgiving Day"</expressao>
+    <expressao>"Mother's Day"</expressao>
+    <expressao>"New Year's Day"</expressao>
+    <expressao>"Groundhog Day"</expressao>
+    <expressao>"Valentines Day"</expressao>
+    <expressao>"Saint Valentines Day"</expressao>
+    <expressao>"St. Valentines Day"</expressao>
+    <expressao>"Valentine's Day"</expressao>
+    <expressao>"Saint Valentine's Day"</expressao>
+    <expressao>"St. Valentine's Day"</expressao>
+    <expressao>"Valentines' Day"</expressao>
+    <expressao>"Saint Valentines"</expressao>
+    <expressao>"St. Valentines' Day"</expressao>
+    <expressao>"Patriots Day"</expressao>
+    <expressao>"Patriots' Day"</expressao>
+    <expressao>"Patriot's Day"</expressao>
+    <expressao>"German-American Day"</expressao>
+    <expressao>"White Cane Safety Day"</expressao>
+    <expressao>"Boss's Day"</expressao>
+    <expressao>"Bosses Day"</expressao>
+    <expressao>"Bosses' Day"</expressao>
+    <expressao>"National Boss Day"</expressao>
+    <expressao>"Independence Day"</expressao>
+    <expressao>"Fourth of July"</expressao>
+    <expressao>"Veterans Day"</expressao>
+    <expressao>"Armistice Day"</expressao>
+    <expressao>"Remembrance Day"</expressao>
+    <expressao>"Poppy Day"</expressao>
+    <expressao>"Epiphany"</expressao>
+    <expressao>"Theophany"</expressao>
+    <expressao>"Halloween"</expressao>
+    <expressao>"All Hallows' Evening"</expressao>
+    <expressao>"Hallowe'en"</expressao>
+    <expressao>"All Hallows"</expressao>
+    <expressao>"Assumption of Mary"</expressao>
+    <expressao>"Assumption of the Blessed Virgin Mary into Heaven"</expressao>
+    <expressao>"The Assumption"</expressao>
+    <expressao>"Reformation Day"</expressao>
+    <expressao>"All Saints"</expressao>
+    <expressao>"All Saints' Day"</expressao>
+    <expressao>"Solemnity of All Saints"</expressao>
+    <expressao>"All Hallows"</expressao>
+    <expressao>"Hallowmas"</expressao>
+	<expressao>"Christmas night"</expressao>
+    <expressao>"Christmas Eve"</expressao>
+    <expressao>"Christmas Day"</expressao>
+    <expressao>"Christmas"</expressao>
+    <expressao>"Xmas"</expressao>
+    <expressao>"Noel"</expressao>
+    <expressao>"Yule"</expressao>
+    <expressao>"New Year's Eve"</expressao>
+    <expressao>"Hogmanay"</expressao>
+    <expressao>"Calennig"</expressao>
+    <expressao>"May Day"</expressao>
+    <expressao>"International Workers Day"</expressao>
+    <expressao>"International Worker's Day"</expressao>
+    <expressao>"International Workers' Day"</expressao>
+    <expressao>"Boxing Day"</expressao>
+    <expressao>"Saint Patricks Day"</expressao>
+    <expressao>"St. Patricks Day"</expressao>
+    <expressao>"Saint Patricks Day"</expressao>
+    <expressao>"St. Paddys Day"</expressao>
+    <expressao>"St. Pattys Day"</expressao>
+    <expressao>"Saint Pattys Day"</expressao>
+    <expressao>"Saint Patrick's Day"</expressao>
+    <expressao>"St. Patrick's Day"</expressao>
+    <expressao>"Saint Patrick's Day"</expressao>
+    <expressao>"St. Paddy's Day"</expressao>
+    <expressao>"Saint Paddy's Day"</expressao>
+    <expressao>"St. Patty's Day"</expressao>
+    <expressao>"Saint Patty's Day"</expressao>
+    <expressao>"Saint Patricks' Day"</expressao>
+    <expressao>"St. Patricks' Day"</expressao>
+    <expressao>"Saint Patricks' Day"</expressao>
+    <expressao>"St. Paddys' Day"</expressao>
+    <expressao>"Saint Paddys' Day"</expressao>
+    <expressao>"St. Pattys' Day"</expressao>
+    <expressao>"Saint Pattys' Day"</expressao>
+    <expressao>"Saint Andrews Day"</expressao>
+    <expressao>"Saint Andrew's Day"</expressao>
+    <expressao>"Saint Andrews' Day"</expressao>
+    <expressao>"St. Andrews Day"</expressao>
+    <expressao>"St. Andrew's Day"</expressao>
+    <expressao>"St. Andrews' Day"</expressao>
+	<expressao>"the Gandhian Era"</expressao>
+	<expressao>"Hundred Days"</expressao>
+</simbolo>

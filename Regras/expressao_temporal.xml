@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<regras>
+    <simbolo nome="expressao_temporal">
+		<expressao tipo="I">intervalos</expressao>
+        <expressao tipo="EPT-EBT-Adv">estrutura_pre_temporal estrutura_basica_temporal adverbio</expressao>
+		<expressao tipo="EPT-EBT-UT">estrutura_pre_temporal estrutura_basica_temporal unidade_temporal</expressao>
+		<expressao tipo="EPT-UT-Adv">estrutura_pre_temporal unidade_temporal adverbio</expressao>
+		<expressao tipo="Pre-EBT-Adv">preposicoes estrutura_basica_temporal adverbio</expressao>
+		<expressao tipo="Pre-EBT-UT">preposicoes estrutura_basica_temporal unidade_temporal</expressao>
+		<expressao tipo="EPT-EMT-Adv">estrutura_pre_temporal estrutura_minima_temporal adverbio</expressao>
+		<expressao tipo="EPT-EMT-UT">estrutura_pre_temporal estrutura_minima_temporal unidade_temporal</expressao>
+		<expressao tipo="Pre-EA-A">preposicoes estacao_do_ano ano</expressao>
+		<expressao tipo="EPT-EBT">estrutura_pre_temporal estrutura_basica_temporal</expressao>
+		<expressao tipo="Pre-EBT">preposicoes estrutura_basica_temporal</expressao>
+		<expressao tipo="Pre-EMT">preposicoes estrutura_minima_temporal</expressao>
+		<expressao tipo="EPT-UT">estrutura_pre_temporal unidade_temporal</expressao>
+		<expressao tipo="EPT-EMT">estrutura_pre_temporal estrutura_minima_temporal</expressao>
+		<expressao tipo="Pre-A-Adv">preposicoes ano adverbio</expressao>
+		<expressao tipo="EBT-UT">estrutura_basica_temporal unidade_temporal</expressao>
+		<expressao tipo="EBT-Adv">estrutura_basica_temporal adverbio</expressao>
+		<expressao tipo="D-EMT-Adv">dia unidade_temporal adverbio</expressao>
+		<expressao tipo="Pre-A-Adv">preposicoes ano adverbio</expressao>
+		<expressao tipo="EPT-EN">estrutura_pre_temporal estacao_do_ano</expressao>
+		<expressao tipo="Pre-A">preposicoes ano</expressao>
+		<expressao tipo="D-EMT-A">dia unidade_temporal "of" ano</expressao>
+		<expressao tipo="D-EMT-A">dia unidade_temporal</expressao>
+		<expressao tipo="EBT">estrutura_basica_temporal</expressao>
+		<expressao tipo="EMT">estrutura_minima_temporal</expressao>
+		<expressao tipo="EBT-H">preposicoes hora</expressao>
+		<expressao tipo="EBT-N">numeros_de_0_a_999</expressao>
+		<expressao tipo="DE">datas_especiais</expressao>
+		<expressao tipo="CE">curtas_expressoes</expressao>
+	</simbolo>
+    <simbolo nome="estrutura_basica_temporal">
+        <expressao>mes dia"," ano</expressao>
+		<expressao>mes dia "," ano</expressao>
+        <expressao>mes dia ano</expressao>
+		<expressao>mes dia "of" ano</expressao>
+		<expressao>mes dia "-" mes dia ano"s"</expressao>
+		<expressao>mes dia"-"mes dia ano"s"</expressao>
+		<expressao>mes dia "-" mes dia ano</expressao>
+		<expressao>mes dia"-"mes dia ano</expressao>
+		<expressao>mes dia "-" mes dia</expressao>
+		<expressao>mes dia"-"mes dia</expressao>
+		<expressao>dia mes"," ano</expressao>
+		<expressao>dia mes ano</expressao>
+        <expressao>mes"," ano</expressao>
+		<expressao>mes "," ano</expressao>
+		<expressao>dia mes "-" dia mes ano"s"</expressao>
+		<expressao>dia mes"-"dia mes ano"s"</expressao>
+		<expressao>dia mes "-" dia mes ano</expressao>
+		<expressao>dia mes"-"dia mes ano</expressao>
+		<expressao>dia mes "-" dia mes</expressao>
+		<expressao>dia mes"-"dia mes</expressao>
+		<expressao>dia "and" dia mes</expressao>
+		<expressao>dia mes</expressao>	
+		<expressao>mes "of" ano</expressao>
+		<expressao>mes "and" mes ano</expressao>
+		<expressao>dia "of" ano</expressao>
+        <expressao>mes"/"mes ano</expressao>
+		<expressao>mes ano</expressao>
+		<expressao>mes dia"-"dia</expressao>
+        <expressao>mes dia</expressao>
+		<expressao>dia"-"dia mes</expressao>
+		<expressao>mes</expressao>
+    </simbolo>
+	<simbolo nome="estrutura_minima_temporal">
+		<expressao>ano"-"ano</expressao>
+		<expressao>ano "and" ano</expressao>
+		<expressao>ano"-"dia</expressao>
+		<expressao>ano"s"</expressao>
+		<expressao>ano</expressao>
+   </simbolo>
+   <simbolo nome="numeros_de_0_a_999">
+		<expressao>"from [0-9]{3} to [0-9]{3} BC"</expressao>
+		<expressao>"[0-9]{3}-[0-9]{3} BC"</expressao>
+		<expressao>"[0-9]{3} and [0-9]{3} BC"</expressao>
+		<expressao>preposicoes "[0-9]{3} BC"</expressao>
+		<expressao>mes "[0-9]{3} BC"</expressao>
+		<expressao>"the end of the [0-9]{3} BC"</expressao>
+		<expressao>"[0-9]{3} BC"</expressao>
+   </simbolo>
+   <simbolo nome="intervalos">
+		<expressao>unidade_temporal "from" estrutura_basica_temporal "to end of" estrutura_basica_temporal</expressao>
+		<expressao>unidade_temporal "from" unidade_numeral unidade_temporal "to end of" unidade_numeral unidade_temporal</expressao>
+		<expressao>unidade_temporal "from" unidade_temporal "to" unidade_temporal</expressao>
+		<expressao>unidade_temporal "from" estrutura_basica_temporal "to end of" unidade_numeral unidade_temporal</expressao>
+		<expressao>unidade_temporal "from" estrutura_basica_temporal "to end of" unidade_temporal</expressao>
+		<expressao>unidade_temporal "from" unidade_numeral unidade_temporal "to end of" estrutura_basica_temporal</expressao>
+		<expressao>unidade_temporal "from" unidade_numeral unidade_temporal "to end of" unidade_temporal</expressao>
+		<expressao>unidade_temporal "from" unidade_numeral unidade_temporal "to end of" unidade_numeral unidade_temporal</expressao>
+		<expressao>unidade_temporal "from" unidade_temporal "to" unidade_temporal</expressao>
+		<expressao>unidade_temporal "from" unidade_temporal "to" unidade_numeral unidade_temporal</expressao>
+		<expressao>unidade_temporal "from" unidade_temporal "to" estrutura_basica_temporal</expressao>
+		<expressao>"from" estrutura_basica_temporal "to" estrutura_basica_temporal"," ano</expressao>
+		<expressao>"from" estrutura_basica_temporal "to" estrutura_basica_temporal</expressao>
+		<expressao>"from" estrutura_minima_temporal "to" estrutura_minima_temporal"," ano</expressao>
+		<expressao>"from" estrutura_minima_temporal "to" estrutura_minima_temporal</expressao>
+		<expressao>"from" estrutura_basica_temporal "until" estrutura_basica_temporal</expressao>
+		<expressao>"from" estrutura_minima_temporal "until" estrutura_minima_temporal</expressao>
+		<expressao>"from" mes "to" mes</expressao>
+		<expressao>"from" ano "to" ano</expressao>
+		<expressao>"from" ano "through" ano</expressao>
+		<expressao>"from" dia mes "until" dia mes</expressao>
+		<expressao>"from" dia mes"," ano "to" dia mes"," ano </expressao>
+		<expressao>preposicoes mes "and again" preposicoes mes</expressao>
+		<expressao>preposicoes mes "of that" unidade_temporal</expressao>
+		<expressao>"a few" unidade_temporal "and" unidade_temporal</expressao>
+		<expressao>preposicoes estacao_do_ano "of" ano</expressao>
+	</simbolo>
+</regras>

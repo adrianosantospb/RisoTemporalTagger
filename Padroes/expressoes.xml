@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<simbolo nome="expressoes">
+    <expressao>"The day before yesterday"</expressao>
+    <expressao>"today"</expressao>
+    <expressao>"tomorrow"</expressao>
+    <expressao>"yesterday"</expressao>
+    <expressao>"right now"</expressao>
+    <expressao>"now"</expressao>
+    <expressao>"currently"</expressao>
+    <expressao>"current"</expressao>
+    <expressao>"as soon as possible"</expressao>
+    <expressao>"soon"</expressao>
+    <expressao>"recently"</expressao>
+    <expressao>"previously"</expressao>
+    <expressao>"formerly"</expressao>
+    <expressao>"recent"</expressao>
+    <expressao>"former"</expressao>
+</simbolo>

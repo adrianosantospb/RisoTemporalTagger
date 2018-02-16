@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<simbolo nome="partes_do_ano">
+    <expressao>"first-quarter"</expressao>
+    <expressao>"first quarter"</expressao>
+    <expressao>"fiscal-first quarter"</expressao>
+    <expressao>"fiscal first quarter"</expressao>
+    <expressao>"Fiscal first-quarter"</expressao>
+    <expressao>"second-quarter"</expressao>
+    <expressao>"second quarter"</expressao>
+    <expressao>"fiscal-second quarter"</expressao>
+    <expressao>"fiscal second quarter"</expressao>
+    <expressao>"fiscal second-quarter"</expressao>
+    <expressao>"third-quarter"</expressao>
+    <expressao>"third quarter"</expressao>
+    <expressao>"fiscal-third quarter"</expressao>
+    <expressao>"fiscal third quarter"</expressao>
+    <expressao>"fiscal third-quarter"</expressao>
+    <expressao>"fourth-quarter"</expressao>
+    <expressao>"fourth quarter"</expressao>
+    <expressao>"forth-quarter"</expressao>
+    <expressao>"forth quarter"</expressao>
+    <expressao>"fiscal-fourth quarter"</expressao>
+    <expressao>"fiscal fourth-quarter"</expressao>
+    <expressao>"fiscal-forth quarter"</expressao>
+    <expressao>"fiscal forth-quarter"</expressao>
+    <expressao>"last-quarter"</expressao>
+    <expressao>"last quarter"</expressao>
+    <expressao>"first-half"</expressao>
+    <expressao>"first half"</expressao>
+    <expressao>"second-half"</expressao>
+    <expressao>"second half"</expressao>
+    <expressao>"last-half"</expressao>
+    <expressao>"last half"</expressao>
+</simbolo>

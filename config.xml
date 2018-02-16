@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<configuracao>
+    <padroes>
+		<padrao arquivo="padroes/estrutura_pre_temporal.xml"/>
+		<padrao arquivo="padroes/unidade_temporal.xml"/>
+        <padrao arquivo="padroes/unidade_numeral.xml"/>
+        <padrao arquivo="padroes/hora.xml"/>
+        <padrao arquivo="padroes/dia.xml"/>
+        <padrao arquivo="padroes/data_numeral.xml"/>
+        <padrao arquivo="padroes/mes.xml"/>
+        <padrao arquivo="padroes/ano.xml"/>
+        <padrao arquivo="padroes/datas_especiais.xml"/>
+        <padrao arquivo="padroes/partes_do_ano.xml"/>
+        <padrao arquivo="padroes/estacao_do_ano.xml"/>
+        <padrao arquivo="padroes/parte_do_dia.xml"/>
+        <padrao arquivo="padroes/parte_da_semana.xml"/>
+        <padrao arquivo="padroes/expressoes.xml"/>
+        <padrao arquivo="padroes/preposicoes.xml"/>
+        <padrao arquivo="padroes/adverbio.xml"/>
+		<padrao arquivo="padroes/curtas_expressoes.xml"/>
+    </padroes>
+    <regras>
+        <regra arquivo="regras/expressao_temporal.xml"/>
+    </regras>
+</configuracao>

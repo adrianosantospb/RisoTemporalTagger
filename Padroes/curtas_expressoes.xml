@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<simbolo nome="curtas_expressoes">
+    <expressao>"that same day"</expressao>
+    <expressao>"a short time"</expressao>
+	<expressao>"this period"</expressao>
+	<expressao>"the next" dias "weeks"</expressao>
+	<expressao>"the next" dias "years"</expressao>
+	<expressao>"any one time"</expressao>
+	<expressao>"about a week"</expressao>
+	<expressao>"a week"</expressao>
+	<expressao>"the past two centuries"</expressao>
+	<expressao>"a little more than a" unidade_temporal</expressao>
+	<expressao>"modern day"</expressao>
+	<expressao>"every day"</expressao>
+	<expressao>"the same time"</expressao>
+	<expressao>"the last week of" mes</expressao>
+	<expressao>"Each day"</expressao>
+	<expressao>"That same day"</expressao>
+	<expressao>"the following" unidade_temporal</expressao>
+	<expressao>"at this time"</expressao>
+	<expressao>"per day"</expressao>
+	<expressao>"early the next morning"</expressao>
+	<expressao>"the same day"</expressao>
+	<expressao>"the end of the year"</expressao>
+	<expressao>"present-day"</expressao>
+	<expressao>"recently"</expressao>
+	<expressao>"several days"</expressao>
+	<expressao>"the coming years"</expressao>
+	<expressao>"recent"</expressao>
+	<expressao>"the same month"</expressao>
+	<expressao>"that afternoon"</expressao>
+	<expressao>"weeks earlier"</expressao>
+	<expressao>"that morning"</expressao>
+	<expressao>"eighteen months"</expressao>
+	<expressao>"the intervening years"</expressao>
+	<expressao>"At this time"</expressao>
+	<expressao>"over a year earlier"</expressao>
+	<expressao>"several days following"</expressao>
+	<expressao>"less than a year later"</expressao>
+	<expressao>"a short amount of time"</expressao>
+	<expressao>"Later in the year"</expressao>
+	<expressao>"moments later"</expressao>
+	<expressao>"The day before"</expressao>
+	<expressao>"the next few months"</expressao>
+	<expressao>"Late in the year"</expressao>
+	<expressao>"most of the rest of the year"</expressao>
+	<expressao>"a short period of time"</expressao>
+	<expressao>"less than a week later"</expressao>
+	<expressao>"A short time after"</expressao>
+	<expressao>"a long time"</expressao>
+	<expressao>"the time being"</expressao>
+	<expressao>"the end of that period"</expressao>
+	<expressao>"the same month"</expressao>
+	<expressao>"many years earlier"</expressao>
+	<expressao>"Late in the year"</expressao>
+	<expressao>"the next morning"</expressao>
+	<expressao>"Years later"</expressao>
+	<expressao>"days later"</expressao>
+	<expressao>"over a year"</expressao>
+	<expressao>"per month"</expressao>
+	<expressao>"that time"</expressao>
+	<expressao>"present"</expressao>
+	<expressao>"a day later"</expressao>
+	<expressao>"months before that"</expressao>
+	<expressao>"over a month"</expressao>
+	<expressao>"a decade earlier"</expressao>
+	<expressao>"weeks later"</expressao>
+	<expressao>mes "of that year"</expressao>
+	<expressao>"month-long"</expressao>
+	<expressao>"currently"</expressao>
+	<expressao>"current"</expressao>
+	<expressao>"weekly"</expressao>
+	<expressao>"nights"</expressao>
+	<expressao>"D-Day"</expressao>
+	<expressao>"a single year"</expressao>
+	<expressao>"now"</expressao>
+	<expressao>"fall"</expressao>
+	<expressao>"today"</expressao>
+	<expressao>"day"</expressao>
+</simbolo>

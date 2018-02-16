@@ -1,0 +1,33 @@
+Este programa está sob a licença Creative Commons. Ver arquivo anexo.
+
+
+*************************
+Dicionário
+*************************
+I - Intervalos
+EPT - estrutura_pre_temporal 
+EBT - estrutura_basica_temporal
+Pre - preposicoes 
+EMT - estrutura_minima_temporal
+UT - unidade_temporal
+Adv - adverbio
+DE -  datas_especiais
+
+*************************
+Expressao_temporal
+*************************
+Principal estrutura do programa. A partir dela é que é defida a ordem de prioridade de marcação das expressões temporais.
+
+
+*************************
+
+
+
+Um padrão p é um itemset definido por uma lista de termos t agrupados semanticamente. 
+
+Uma regra r é definida como uma lista ordenada denotada por <r1, r2,..., rn>, onde rn é definido por uma associação de padrões. A ordem de prioridade dos itens de uma regra rn é definida, decrescentemente, por seu comprimento. Ou seja, quanto mais termos associados, maior será a sua prioridade sobre as outras regras.
+
+
+
+
+

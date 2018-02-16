@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<simbolo nome="unidade_temporal">
+    <expressao>"trading days"</expressao>
+    <expressao>"trading day"</expressao>
+    <expressao>"weekends"</expressao>
+    <expressao>"weekend"</expressao>
+    <expressao>"weeks"</expressao>
+    <expressao>"week-ends"</expressao>
+    <expressao>"week-end"</expressao>
+    <expressao>"minutes"</expressao>
+    <expressao>"minute"</expressao>
+    <expressao>"quarters"</expressao>
+    <expressao>"centuries"</expressao>
+    <expressao>"hours"</expressao>
+    <expressao>"months"</expressao>
+    <expressao>"decades"</expressao>
+    <expressao>"days"</expressao>
+    <expressao>"years"</expressao>
+    <expressao>"century"</expressao>
+    <expressao>"quarter"</expressao>
+    <expressao>"day"</expressao>
+    <expressao>"week"</expressao>
+    <expressao>"month"</expressao>
+    <expressao>"year"</expressao>
+    <expressao>"decade"</expressao>
+    <expressao>"hour"</expressao>
+    <expressao>"min"</expressao>
+</simbolo>

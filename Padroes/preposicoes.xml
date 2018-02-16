@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<simbolo nome="preposicoes">
+    <expressao>"weeks from"</expressao>
+    <expressao>"until"</expressao>
+    <expressao>"about"</expressao>
+    <expressao>"nearly"</expressao>
+    <expressao>"almost"</expressao>
+    <expressao>"at least"</expressao>
+	<expressao>"In a"</expressao>
+	<expressao>"on the"</expressao>
+    <expressao>"in"</expressao>
+    <expressao>"on"</expressao>
+    <expressao>"at"</expressao>
+	<expressao>"of"</expressao>
+    <expressao>"since"</expressao>
+    <expressao>"from"</expressao>
+    <expressao>"to"</expressao>
+	<expressao>"by"</expressao>
+	<expressao>"after"</expressao>
+	<expressao>"early"</expressao>
+	<expressao>"between"</expressao>
+	<expressao>"before"</expressao>
+	<expressao>"next"</expressao>
+ </simbolo>
